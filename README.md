@@ -4,7 +4,9 @@
 
 ## Features
 
-- **Task Management**: Add, edit, and delete tasks with ease.
-- **Reminders**: Set reminders for tasks to never miss a deadline.
-- **User-Friendly Interface**: Simple and intuitive design for easy task management.
-- **Cross-Platform**: Available on both Android and iOS devices.
+- **Task Management**: Seamlessly add, edit, and delete tasks to stay organized.
+- **Simple UI**: Enjoy a clean and straightforward user interface.
+- **User-Friendly**: Designed to be intuitive and easy to use for everyone.
+- **Higher Compatibility**: Works across various devices with higher compatibility.
+- **Intuitive Navigation**: Navigate through the app effortlessly with user-friendly controls.
+- **Cross Platform**: Available on both Android and iOS devices.
